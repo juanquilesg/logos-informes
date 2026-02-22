@@ -1,1 +1,1 @@
-# logos-inormes
+# logos-informes
